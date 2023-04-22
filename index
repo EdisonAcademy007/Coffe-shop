@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Juego Flash SWF</title>
+</head>
+<body>
+	<object type="application/x-shockwave-flash" data="juego.swf" width="800" height="600">
+		<param name="movie" value="coffeeshop-coolmath-1.swf" />
+		<p>Tu navegador no es compatible con Flash.</p>
+	</object>
+</body>
+</html>
